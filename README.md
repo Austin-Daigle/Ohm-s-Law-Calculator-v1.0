@@ -3,4 +3,4 @@ This is a Java application for solving for voltage, current, or resistance. This
 
 # How to use:
 Download the attached [executable .jar application](https://github.com/Austin-Daigle/Ohm-s-Law-Calculator-v1.0/blob/main/Ohm's%20Law%20Calculator%20v1.0.jar) and execute and the java-based GUI will start-up.
-Alternately, the program can also either be run being downloaded the source code and compiling and executing each java class via a command line/IDE (or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable).
+Alternately, the program can also either be run being downloaded the [source code](https://github.com/Austin-Daigle/Ohm-s-Law-Calculator-v1.0/tree/main/SourceCode) and compiling and executing each java class via a command line/IDE (or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable).
